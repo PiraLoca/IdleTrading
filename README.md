@@ -1,2 +1,0 @@
-# IdleTrading
-Cookie Clicker Addon
